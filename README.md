@@ -2,8 +2,8 @@
 
 Meu nome é Gustavo Aparecido
 
-- Estou estudando na [Alura](https://www.alura.com.br)
-- Estou me desenvolvendo na linguagem JavaScript
+- Estou estudando na [FEI](http://fei.edu.br)
+- Estou me desenvolvendo na linguagem HTML
 - Utilizo este espaço para organização e compartilhamento dos meus projetos desenvolvidos
 
 #### Você pode entrar em contato comigo 📫
