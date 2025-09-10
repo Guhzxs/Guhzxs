@@ -11,4 +11,4 @@ Meu nome é Gustavo Aparecido
 gustavo4parecido@gmail.com
 
 
-![](https://tenor.com/pt-BR/view/coding-gif-18657810)
+![](https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif)
