@@ -20,6 +20,6 @@ Projetos académicos e pessoais com foco em:
 - Sistemas de CRUD e lógica de back-end (Python).
 - Modelagem de Bases de Dados Relacionais (SQL).
 
-### 📫 Como contactar-me
+### 📫 Contato:
 - 📧 E-mail: gustavo4parecido@gmail.com
 - 💼 LinkedIn: [www.linkedin.com/in/gustavo-aparecido-souza]
