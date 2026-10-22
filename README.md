@@ -1,4 +1,4 @@
-# Olá! Sou o Gustavo Amaro 👋
+# Olá! Sou o Gustavo Aparecido 👋
 
 Bem-vindo(a) ao meu perfil no GitHub. Sou estudante de **Ciência da Computação** e utilizo este espaço para partilhar o meu percurso na área da tecnologia, focando-me no desenvolvimento de software, arquitetura de dados e engenharia de soluções.
 
@@ -21,5 +21,5 @@ Projetos académicos e pessoais com foco em:
 - Modelagem de Bases de Dados Relacionais (SQL).
 
 ### 📫 Como contactar-me
-- 📧 E-mail: gustavo4parecido@gmail.com[cite: 2]
+- 📧 E-mail: gustavo4parecido@gmail.com
 - 💼 LinkedIn: [www.linkedin.com/in/gustavo-aparecido-souza]
